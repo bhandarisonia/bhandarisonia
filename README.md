@@ -1,104 +1,159 @@
 
-<h1 align="center">Hi 👋, I'm Soniya Bhandari</h1>
+<!-- PROFILE HEADER -->
+<h1 align="center">✨ Hi, I'm Soniya Bhandari 👋</h1>
 
-<h3 align="center">Website Developer | Frontend Developer | Digital Marketing Enthusiast</h3>
+<h3 align="center">💻 Website Developer | Frontend Developer | Digital Marketing Enthusiast</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" alt="Coding"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+Build+Modern+Websites;Frontend+Developer+%7C+React+Enthusiast;Turning+Ideas+Into+Digital+Experiences" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhandarisonia&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" alt="Coding Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhandarisonia&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-### 🚀 About Me
+<!-- ABOUT ME -->
+## 🚀 About Me
 
-I'm a passionate Website Developer interested in building modern, responsive, and user-friendly websites.
+<img align="right" alt="Coding Girl" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I enjoy creating website experiences and helping businesses grow their online presence through web development and digital marketing.
+Hello! I'm **Soniya Bhandari**, a passionate Website Developer who loves creating modern, responsive and user-friendly websites.
 
-- 💻 Profession: Website Developer
-- 🎓 Education: MCA (AI & ML)
-- 🌐 Frontend: HTML, CSS, JavaScript, React.js
-- 🛠️ Backend: Node.js, Express.js, MongoDB, MySQL
-- 🎨 CMS: WordPress, Elementor
-- 📈 Digital Marketing: SEO, Meta Ads, Google Ads
-- 🌱 Currently Learning: React Native & Digital Marketing
-- 💼 Interested In: Freelancing, Website Development & Real-World Projects
-- 📍 Location: Noida, India
+I enjoy transforming creative ideas into digital experiences and helping businesses build their online presence.
+
+- 💻 Website Developer
+- 🎓 MCA in Artificial Intelligence & Machine Learning
+- 🌐 Frontend Development with React.js
+- 🎨 WordPress & Elementor Development
+- 📈 SEO & Digital Marketing
+- 📱 Meta Ads & Google Ads
+- 🌱 Currently Learning React Native
+- 💡 Always exploring new technologies
+- 📍 Noida, India
+
+<br clear="right"/>
 
 ---
 
-### 🛠️ Languages and Tools
+<!-- TECH STACK -->
+## 🛠️ Technologies & Tools
+
+### 💻 Frontend Development
 
 <p align="left">
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
-<a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/></a>
-<a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/></a>
-<a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/></a>
-<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
-<a href="https://wordpress.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40" height="40" alt="WordPress"/></a>
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/></a>
-<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 </p>
 
----
-
-### 💼 My Skills & Services
-
-- 🌐 Responsive Website Development
-- ⚛️ React.js Frontend Development
-- 🎨 UI Development
-- 📝 WordPress Website Development
-- 🔍 Search Engine Optimization (SEO)
-- 📱 Social Media Management
-- 📊 Meta Ads & Google Ads
-
----
-
-### 📂 Projects
-
-- Business Websites
-- Finance & Loan Websites
-- Travel & Tourism Websites
-- Healthcare Websites
-- College & Educational Websites
-- Responsive Landing Pages
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bhandarisonia&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhandarisonia&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhandarisonia&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
-### 🤝 Connect With Me
+### ⚙️ Backend & Database
 
 <p align="left">
-<a href="https://github.com/bhandarisonia" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
-<a href="https://linkedin.com/in/soniyabhandari-488a45283" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+### 🎨 Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=wordpress,git,github,figma,vscode,postman" />
+</p>
+
+---
+
+<!-- WHAT I DO -->
+## 💼 What I Do
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🌐 Website Development</h3>
+<p align="center">Responsive business websites, landing pages and modern web interfaces.</p>
+</td>
+<td width="50%">
+<h3 align="center">⚛️ Frontend Development</h3>
+<p align="center">Interactive and user-friendly interfaces using React.js, HTML, CSS and JavaScript.</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">📝 WordPress Development</h3>
+<p align="center">Professional websites using WordPress and Elementor.</p>
+</td>
+<td width="50%">
+<h3 align="center">📈 Digital Marketing</h3>
+<p align="center">SEO, Meta Ads, Google Ads and social media management.</p>
+</td>
+</tr>
+</table>
+
+---
+
+<!-- PROJECTS -->
+## 📂 Featured Project Categories
+
+- 🏢 Business & Corporate Websites
+- 💰 Finance & Loan Websites
+- ✈️ Travel & Tourism Websites
+- 🏥 Healthcare Websites
+- 🎓 Educational Websites
+- 🛍️ E-commerce & Landing Pages
+
+---
+
+<!-- GITHUB STATS -->
+## 📊 GitHub Statistics
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhandarisonia&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhandarisonia&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages"/>
+</p>
+
+<p align="center">
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhandarisonia&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+## 📈 My Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhandarisonia&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+</p>
+
+---
+
+<!-- SNAKE GAME -->
+## 🐍 Watch My Contributions Get Eaten!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhandarisonia/bhandarisonia/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+---
+
+<!-- CONNECT -->
+## 🤝 Let's Connect!
+
+<p align="center">
+<a href="https://github.com/bhandarisonia">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/soniyabhandari-488a45283">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
-<h3 align="center">✨ Building Websites | Growing Businesses | Learning Every Day ✨</h3>
+<p align="center">
+📩 Open to collaborations, freelance projects and new opportunities.
+</p>
+
+<h3 align="center">💜 Code. Create. Innovate. Repeat. 🚀</h3>
+
+<p align="center">
+  <i>"Great websites are built with creativity, passion and clean code."</i>
+</p>
